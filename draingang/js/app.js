@@ -67,25 +67,25 @@ soda.addEventListener('mouseleave', () => {
 new hoverEffect ({
     parent: document.querySelector('.image'),
     intensity: 0.3,
-    image1: '../image/6ec22b8da05a1f25f7041832fc8e6dbc.jpg',
-    image2: '../image/seabass-creatives-U3m4_cKbUfc-unsplash.jpg',
-    displacementImage: '../image/heightMap.png'
+    image1: '6ec22b8da05a1f25f7041832fc8e6dbc.jpg',
+    image2: 'seabass-creatives-U3m4_cKbUfc-unsplash.jpg',
+    displacementImage: 'heightMap.png'
 })
 
 new hoverEffect({
     parent: document.querySelector('.slide-two_image'),
     intensity: 0.3,
-    image1: '../image/33cb889b6450272804cb3a68ec967c8e.jpg',
-    image2: '../image/Bladee-001.jpg',
-    displacementImage: '../image/heightMap.png'
+    image1: '33cb889b6450272804cb3a68ec967c8e.jpg',
+    image2: 'Bladee-001.jpg',
+    displacementImage: 'heightMap.png'
 })
 
 new hoverEffect({
     parent: document.querySelector('.slide-three_image'),
     intensity: 0.3,
-    image1: '../image/OP18021_AM_AH-_Folio-YungLean_3381_05_RGB.jpg',
-    image2: '../image/bsHbzdJSsdk.jpg',
-    displacementImage: '../image/heightMap.png'
+    image1: 'OP18021_AM_AH-_Folio-YungLean_3381_05_RGB.jpg',
+    image2: 'bsHbzdJSsdk.jpg',
+    displacementImage: 'heightMap.png'
 });
 
 document.querySelector('.slide-two_image').addEventListener('mouseover', (e) => {
