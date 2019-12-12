@@ -1,0 +1,694 @@
+@media screen and (min-width: 1200px) and (max-width: 1600px) {
+    .nav-bar ul li{
+        padding-top: 20px;
+        font-size: 18px;
+    }
+    .nav-bar h2{
+        font-size: 58px;
+        font-family: Neue-Black;
+        letter-spacing: 4px;
+    }
+    .left-block{
+        margin: 50px 180px;
+    }
+    .left-block h1{
+        font-size: 112px;
+        letter-spacing: 4px;
+        line-height: 79px;
+    }
+    .list h2{
+        font-size: 112px;
+        letter-spacing: 4px;
+    }
+    .list .soda{
+        font-size: 74px;
+    }
+    .counter{
+        font-size: 22px;
+    }
+    .counter_2{
+        font-size: 22px;
+    }
+    .counter_3{
+        font-size: 22px;
+    }
+    .left-block button{
+        margin-top: 20px;
+        margin-bottom: 100px;
+    }
+    .right-block{
+        position: absolute;
+        top: 10%;
+        right: 2%;
+    }
+    .right-block h3{
+        position: absolute;
+        top: 10%;
+        font-size: 68px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_second{
+        position: absolute;
+        top: 10%;
+    }
+    .right-block_second h3{
+        font-size: 85px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_third{
+        position: absolute;
+        top: 10%;
+        right: 68%;
+    }
+
+    .lefter{
+        width: 200px;
+        margin-top: 45px;
+    }
+    .righter{
+        width: 200px;
+        margin-top: 45px;
+        margin-left: 80px;
+    }
+
+    .image{
+        box-shadow: 0px 0px 10px black;
+        width: 40vw;
+        height: 75vh;
+    }
+
+    .slide-two_image{
+        width: 40vw;
+        height: 75vh;
+    }
+
+    .slide-two_image h2{
+        position: absolute;
+        top: 78%;
+        left: 18%;
+        font-size: 86px;
+        letter-spacing: 4px;
+    }
+    .slide-three_image{
+        width: 40vw;
+        height: 70vh;
+        box-shadow: 0px 0px 10px black;
+    }
+
+    .slide-three_image h2{
+        position: absolute;
+        top: 75%;
+        left: 18%;
+        font-size: 86px;
+        letter-spacing: 4px;
+
+    }
+
+}
+
+@media screen and (min-width: 968px) and (max-width: 1199px) {
+    .nav-bar ul li{
+        padding-top: 18px;
+        font-size: 17px;
+    }
+    .nav-bar h2{
+        font-size: 54px;
+        font-family: Neue-Black;
+        letter-spacing: 4px;
+    }
+    .left-block{
+        margin: 45px 150px;
+    }
+    .left-block h1{
+        font-size: 90px;
+        letter-spacing: 3px;
+        line-height: 64px;
+    }
+    .list h2{
+        font-size: 90px;
+        letter-spacing: 4px;
+    }
+    .list .soda{
+        font-size: 64px;
+    }
+    .counter{
+        font-size: 20px;
+    }
+    .counter_2{
+        font-size: 20px;
+    }
+    .counter_3{
+        font-size: 20px;
+    }
+    .left-block button{
+        margin-top: 15px;
+        margin-bottom: 80px;
+    }
+    .right-block{
+        position: absolute;
+        top: 10%;
+        right: 4%;
+    }
+    .right-block h3{
+        position: absolute;
+        top: 10%;
+        font-size: 68px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_second{
+        position: absolute;
+        top: 10%;
+        right: 37%;
+    }
+    .right-block_second h3{
+        font-size: 85px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_third{
+        position: absolute;
+        top: 10%;
+        right: 70%;
+    }
+
+    .lefter{
+        width: 180px;
+        margin-top: 40px;
+    }
+    .righter{
+        width: 180px;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .image{
+        box-shadow: 0px 0px 10px black;
+        width: 38vw;
+        height: 70vh;
+    }
+
+    .slide-two_image{
+        width: 38vw;
+        height: 70vh;
+    }
+
+    .slide-two_image h2{
+        position: absolute;
+        top: 78%;
+        left: 18%;
+        font-size: 72px;
+        letter-spacing: 4px;
+    }
+    .slide-three_image{
+        width: 38vw;
+        height: 70vh;
+        box-shadow: 0px 0px 10px black;
+    }
+
+    .slide-three_image h2{
+        position: absolute;
+        top: 75%;
+        left: 18%;
+        font-size: 72px;
+        letter-spacing: 4px;
+
+    }
+}
+
+@media screen and (min-width: 824px) and (max-width: 967px) {
+    .nav-bar ul li{
+        padding-top: 16px;
+        font-size: 16px;
+    }
+    .nav-bar h2{
+        font-size: 50px;
+        font-family: Neue-Black;
+        letter-spacing: 4px;
+    }
+    .left-block{
+        margin: 40px 140px;
+    }
+    .left-block h1{
+        font-size: 78px;
+        letter-spacing: 3px;
+        line-height: 55px;
+    }
+    .list h2{
+        font-size: 78px;
+        letter-spacing: 4px;
+    }
+    .list .soda{
+        font-size: 60px;
+        letter-spacing: 0.5px;
+    }
+    .counter{
+        font-size: 18px;
+    }
+    .counter_2{
+        font-size: 18px;
+    }
+    .counter_3{
+        font-size: 18px;
+    }
+    .left-block button{
+        margin-top: 15px;
+        margin-bottom: 80px;
+    }
+    .right-block{
+        position: absolute;
+        top: 10%;
+        right: 3%;
+    }
+    .right-block h3{
+        position: absolute;
+        top: 10%;
+        font-size: 60px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_second{
+        position: absolute;
+        top: 10%;
+        right: 37%;
+    }
+    .right-block_second h3{
+        font-size: 75px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_third{
+        position: absolute;
+        top: 10%;
+        right: 70%;
+    }
+
+    .lefter{
+        width: 170px;
+        margin-top: 35px;
+    }
+    .righter{
+        width: 170px;
+        margin-top: 35px;
+        margin-left: 70px;
+    }
+
+    .image{
+        box-shadow: 0px 0px 10px black;
+        width: 38vw;
+        height: 60vh;
+    }
+
+    .slide-two_image{
+        width: 38vw;
+        height: 60vh;
+    }
+
+    .slide-two_image h2{
+        position: absolute;
+        top: 85%;
+        left: 18%;
+        font-size: 62px;
+        letter-spacing: 4px;
+    }
+    .slide-three_image{
+        width: 38vw;
+        height: 60vh;
+        box-shadow: 0px 0px 10px black;
+    }
+
+    .slide-three_image h2{
+        position: absolute;
+        top: 75%;
+        left: 18%;
+        font-size: 62px;
+        letter-spacing: 4px;
+
+    }
+}
+
+@media screen and (min-width: 630px) and (max-width: 824px) {
+    .nav-bar ul li{
+        padding-top: 16px;
+        font-size: 16px;
+        padding-bottom: 50px;
+    }
+    .nav-bar h2{
+        font-size: 44px;
+        font-family: Neue-Black;
+        letter-spacing: 4px;
+    }
+    .left-block{
+        margin: 50px 100px;
+    }
+    .left-block h1{
+        font-size: 62px;
+        letter-spacing: 3px;
+        line-height: 45px;
+    }
+    .list h2{
+        font-size: 62px;
+        letter-spacing: 4px;
+    }
+    .list .soda{
+        font-size: 50px;
+        letter-spacing: 0.5px;
+    }
+    .counter{
+        font-size: 18px;
+    }
+    .counter_2{
+        font-size: 18px;
+    }
+    .counter_3{
+        font-size: 18px;
+    }
+    .left-block button{
+        margin-top: 15px;
+        font-size: 18px;
+        margin-bottom: 80px;
+    }
+    .right-block{
+        position: absolute;
+        top: 10%;
+        right: 5%;
+    }
+    .right-block h3{
+        position: absolute;
+        top: 10%;
+        font-size: 60px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_second{
+        position: absolute;
+        top: 10%;
+        right: 39%;
+    }
+    .right-block_second h3{
+        font-size: 65px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_third{
+        position: absolute;
+        top: 10%;
+        right: 70%;
+    }
+
+    .lefter{
+        width: 170px;
+        margin-top: 35px;
+    }
+    .righter{
+        width: 170px;
+        margin-top: 35px;
+        margin-left: 70px;
+    }
+
+    .image{
+        box-shadow: 0px 0px 10px black;
+        width: 30vw;
+        height: 50vh;
+    }
+
+    .slide-two_image{
+        width: 30vw;
+        height: 50vh;
+    }
+
+    .slide-two_image h2{
+        position: absolute;
+        top: 85%;
+        left: 18%;
+        font-size: 50px;
+        letter-spacing: 4px;
+    }
+    .slide-three_image{
+        width: 30vw;
+        height: 50vh;
+        box-shadow: 0px 0px 10px black;
+    }
+
+    .slide-three_image h2{
+        position: absolute;
+        top: 75%;
+        left: 18%;
+        font-size: 50px;
+        letter-spacing: 4px;
+
+    }
+}
+
+
+@media screen and (min-width: 500px) and (max-width: 630px) {
+    .nav-bar ul li{
+        padding-top: 16px;
+        font-size: 16px;
+        padding-bottom: 70px;
+    }
+    .nav-bar h2{
+        font-size: 40px;
+        font-family: Neue-Black;
+        letter-spacing: 4px;
+    }
+    .left-block{
+        margin: 50px 40px;
+    }
+    .left-block h1{
+        font-size: 48px;
+        letter-spacing: 3px;
+        line-height: 38px;
+    }
+    .list h2{
+        font-size: 52px;
+        letter-spacing: 4px;
+    }
+    .list .soda{
+        font-size: 42px;
+        letter-spacing: 0.5px;
+    }
+    .counter{
+        font-size: 14px;
+    }
+    .counter_2{
+        font-size: 14px;
+    }
+    .counter_3{
+        font-size: 14px;
+    }
+    .left-block button{
+        margin-top: 15px;
+        font-size: 18px;
+        margin-bottom: 80px;
+    }
+    .right-block{
+        position: absolute;
+        top: 12%;
+        right: 4%;
+    }
+    .right-block h3{
+        position: absolute;
+        top: 10%;
+        font-size: 50px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_second{
+        position: absolute;
+        top: 10%;
+        right: 38%;
+    }
+    .right-block_second h3{
+        font-size: 50px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_third{
+        position: absolute;
+        top: 16%;
+        right: 70%;
+    }
+
+    .lefter{
+        width: 150px;
+        margin-top: 35px;
+    }
+    .righter{
+        width: 150px;
+        margin-top: 35px;
+        margin-left: 60px;
+    }
+
+    .image{
+        width: 30vw;
+        height: 40vh;
+    }
+
+    .slide-two_image{
+        width: 30vw;
+        height: 40vh;
+    }
+
+    .slide-two_image h2{
+        position: absolute;
+        top: 85%;
+        left: 18%;
+        font-size: 40px;
+        letter-spacing: 4px;
+    }
+    .slide-three_image{
+        width: 30vw;
+        height: 40vh;
+    }
+
+    .slide-three_image h2{
+        position: absolute;
+        top: 75%;
+        left: 18%;
+        font-size: 40px;
+        letter-spacing: 4px;
+        line-height: 38px;
+
+    }
+    .fp-controlArrow.fp-prev {
+        left: 15px;
+        border-width: 22.5px 18px 18.5px 0;
+
+    }
+    .fp-controlArrow.fp-next {
+        right: 15px;
+        border-width: 22.5px 0 22.5px 18px;
+
+    }
+}
+
+@media screen and (min-width: 10px) and (max-width: 500px) {
+    .nav-bar ul li{
+        padding-top: 16px;
+        font-size: 16px;
+        padding-bottom: 70px;
+    }
+    .nav-bar h2{
+        font-size: 40px;
+        font-family: Neue-Black;
+        letter-spacing: 4px;
+    }
+    .left-block{
+        margin: 50px 10px;
+    }
+    .left-block h1{
+        font-size: 42px;
+        letter-spacing: 3px;
+        line-height: 38px;
+    }
+    .list h2{
+        font-size: 45px;
+        letter-spacing: 4px;
+    }
+    .list .soda{
+        font-size: 30px;
+        letter-spacing: 0.5px;
+    }
+    .counter{
+        font-size: 12px;
+        top: 20%;
+        left: 2%;
+    }
+    .counter_2{
+        font-size: 12px;
+        top: 20%;
+        left: 35%;
+    }
+    .counter_3{
+        font-size: 12px;
+        top: 20%;
+        left: 69%;
+    }
+    .left-block button{
+        margin-top: 15px;
+        font-size: 18px;
+        margin-bottom: 50px;
+    }
+    .right-block{
+        position: absolute;
+        top: 15%;
+        right: 1%;
+    }
+    .right-block h3{
+        position: absolute;
+        top: 20%;
+        font-size: 38px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_second{
+        position: absolute;
+        top: 20%;
+        right: 34%;
+    }
+    .right-block_second h3{
+        font-size: 38px;
+        letter-spacing: 4px;
+    }
+
+    .right-block_third{
+        position: absolute;
+        top: 20%;
+        right: 70%;
+    }
+
+    .lefter{
+        width: 100px;
+        margin-top: 30px;
+    }
+    .righter{
+        width: 100px;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+
+    .image{
+        width: 40vw;
+        height: 30vh;
+    }
+
+    .slide-two_image{
+        width: 40vw;
+        height: 30vh;
+    }
+
+    .slide-two_image h2{
+        position: absolute;
+        top: 80%;
+        left: 15%;
+        font-size: 24px;
+        letter-spacing: 4px;
+    }
+    .slide-three_image{
+        width: 40vw;
+        height: 30vh;
+    }
+
+    .slide-three_image h2{
+        position: absolute;
+        top: 75%;
+        left: 18%;
+        font-size: 25px;
+        letter-spacing: 3px;
+        line-height: 38px;
+
+    }
+    .fp-controlArrow.fp-prev {
+        left: 15px;
+        border-width: 18.5px 14px 18.5px 0;
+
+    }
+    .fp-controlArrow.fp-next {
+        right: 15px;
+        border-width: 18.5px 0 18.5px 14px;
+
+    }
+}
