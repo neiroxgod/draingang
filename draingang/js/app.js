@@ -33,7 +33,7 @@ function initAnimation(){
     .fromTo(drain, 0.8, {y: -150}, {y: 0, ease:Power2.easeInOut})
     .fromTo(lefter, 0.8, {x: -500}, {x: 0, ease:Power2.easeInOut})
     .fromTo(righter, 0.8, {x: -500}, {x: 0, ease:Power2.easeInOut})
-    .fromTo(akie, 0.8, {fontSize: "550px"}, {fontSize: "122px", ease: Power2.easeInOut})
+    .fromTo(akie, 0.8, {scale: 5, x: 300, y: 300 }, {scale: 1, x: 0, y: 0,  ease:Power2.easeInOut})
     .fromTo(picture, 0.5, {y: -2000}, {y: 0, ease: Power2.easeInOut})
 }
 
@@ -52,14 +52,9 @@ rain.addEventListener('mouseleave', () => {
 });
 soda.addEventListener('mouseenter', () => {
     soda.innerHTML = "LIAR";
-    tl.fromTo(soda, 0.4, {fontSize: "82px"}, {fontSize: "150px", ease: Power2.easeInOut})
 });
 soda.addEventListener('mouseleave', () => {
     soda.innerHTML = "SODAWATER";
-    tl.fromTo(soda, 0.4, {fontSize: "150px"}, {fontSize: "82px", ease: Power2.easeInOut})
-    setTimeout(() =>{
-        tl.clear();
-    }, 1000)
 });
 
 
